@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+  <title></title>
+
+<meta name="theme-color" content="" />
+<meta charset="utf-8" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta name="description" content="" />
+<meta name="author" content="Raphaele Michelle Guillemot" />
+<meta name="generator" content="aafu theme by Darshan in Hugo 0.73.0" />
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">        <link rel="manifest" href="/site.webmanifest">        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#252627">        <link rel="shortcut icon" href="/favicon.ico">        
+
+  <link
+    rel="stylesheet"
+    href="/css/bootstrap/bootstrap.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+    integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+    crossorigin="anonymous"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="//fonts.googleapis.com/css?family=Didact+Gothic%7CRoboto:400%7CRoboto+Mono"
+  />
+  <link rel="stylesheet" href="/css/aafu_dark.css" />
+  <link rel="stylesheet" href="/css/aafu.css" />
+
+  <script>
+    var themeColor = document.querySelector("meta[name=theme-color]");
+    window.onload = () => {
+      themeColor.content = getComputedStyle(document.body)["background-color"];
+      let defaultActivePanel = document.querySelector(".accordion.active");
+      if (defaultActivePanel) {
+        defaultActivePanel.nextElementSibling.style.maxHeight =
+          defaultActivePanel.nextElementSibling.scrollHeight + "px";
+      }
+    };
+    window.onresize = () => {
+      let defaultActivePanel = document.querySelector(".accordion.active");
+      if (defaultActivePanel) {
+        defaultActivePanel.nextElementSibling.style.maxHeight =
+          defaultActivePanel.nextElementSibling.scrollHeight + "px";
+      }
+    };
+  </script>
+</head>
+<body class="container">
+    <main style="min-height: calc(100vh - 60px);">
+      
+      <div class="d-flex flex-row row p-2">
+  <h3 class="main-menu mr-3">
+    <a href="https://www.example.org/">Home</a>
+  </h3>
+  <h3 class="main-menu mr-3">
+    <a href="/blog">Blog</a>
+  </h3>
+</div>
+
+      
+<div class="ml-auto mr-auto row row-eq-height rounded">
+  <div class="col-md-5 text-center p-2 mt-1">
+    <div class="profile-area rounded text-center position-relative shadow">
+      <div class="d-flex justify-content-center pt-2">
+  <div class="w-100 h-100">
+    <img
+      class="rounded rounded-circle mt-4"
+      src="/images/avatar.jpg"
+      alt="Raphaele Michelle Guillemot"
+      style="width: 95%; max-width: 300px;"
+    />
+  </div>
+</div>
+
+      <div class="p-2">
+        <h1 class="mb-0">Raphaele Michelle Guillemot</h1>
+<h2 class="mb-0">Web Developer | Digital Artist</h2>
+<h3 class="mb-0">Hong Kong</h3>
+<div class="mt-2 d-flex flex-wrap justify-content-center">
+  
+  <div style="height:45px; width:45px;">
+    <a href="https://www.linkedin.com/in/raphaele-guillemot-6a34271a8/">
+      <i class="zoomlink mt-1 fab fa-linkedin-in"></i>
+    </a>
+  </div>
+  
+  <div style="height:45px; width:45px;">
+    <a href="https://github.com/raphaeleguillemot">
+      <i class="zoomlink mt-1 fab fa-github"></i>
+    </a>
+  </div>
+  
+  <div style="height:45px; width:45px;">
+    <a href="mailto:raphaeleguillemotmichelle%20AT%20gmail%20DOT%20com">
+      <i class="zoomlink mt-1 fab fa fa-envelope"></i>
+    </a>
+  </div>
+  
+</div>
+ <footer class=" mt-2 mb-2 ">
+  <span class="markdownify"></span>
+  <span style="font-size:0px;">
+    &middot;
+    <i>
+      <a href="https://github.com/darshanbaral/aafu">
+        aafu
+      </a>
+    </i>
+    by
+    <a href="https://www.darshanbaral.com/">
+      darshan
+    </a>
+  </span>
+</footer>
+
+      </div>
+    </div>
+  </div>
+  <div class="col-md-7 pt-2 mt-3">
+    
+    <h2 class="accordion  active ">
+      
+      <span onclick="expandAccordion(this)" style="cursor: pointer;">
+        <i class="fas fa-user"></i>
+        About Me</span>
+    </h2>
+    <div
+      class="panel overflow-hidden"
+      
+    >
+      <p class="markdownify">
+  I&rsquo;m a French-Chinese born in 2002 and aspiring to be a video game designer. The aim of this site is to showcase all my creative processes and results.
+</p>
+
+    </div>
+    
+    <h2 class="accordion ">
+      
+      <span onclick="expandAccordion(this)" style="cursor: pointer;">
+        <i class="fas fa-briefcase"></i>
+        Experiences</span>
+    </h2>
+    <div
+      class="panel overflow-hidden"
+      
+    >
+      
+<dl>
+  <dt class="mb-0">
+    Head Artist
+  </dt>
+  <dd class="mb-0 ml-3">
+    <span class="markdownify">2020 - <em>Present</em></span>
+    &middot;
+    
+    the Inter-School Social Issues Association (ISSIA) newspaper
+    
+  </dd>
+  <dd class="mb-0 ml-4 markdownify"></dd>
+</dl>
+
+<dl>
+  <dt class="mb-0">
+    Head Artist
+  </dt>
+  <dd class="mb-0 ml-3">
+    <span class="markdownify">2019 - 2020</span>
+    &middot;
+    
+    <a href="#">The School Newspaper Club (The Victorian)</a>
+    
+  </dd>
+  <dd class="mb-0 ml-4 markdownify">Promoted as Hear Artist after four years of team participation (front pages, article related art, comics, etc&hellip;)</dd>
+</dl>
+
+<dl>
+  <dt class="mb-0">
+    Artist
+  </dt>
+  <dd class="mb-0 ml-3">
+    <span class="markdownify">2019</span>
+    &middot;
+    
+    The School Blood Drive Commitee
+    
+  </dd>
+  <dd class="mb-0 ml-4 markdownify">Created advertisement posters to promote the 2019 Blood Donation school event</dd>
+</dl>
+
+<dl>
+  <dt class="mb-0">
+    Head of Advertisement
+  </dt>
+  <dd class="mb-0 ml-3">
+    <span class="markdownify">2017 - 2019</span>
+    &middot;
+    
+    Family Fun Day Coffee Shop
+    
+  </dd>
+  <dd class="mb-0 ml-4 markdownify"></dd>
+</dl>
+
+<dl>
+  <dt class="mb-0">
+    Head Editor
+  </dt>
+  <dd class="mb-0 ml-3">
+    <span class="markdownify">2017 - 2020</span>
+    &middot;
+    
+    The School Video Production Club (Campus TV)
+    
+  </dd>
+  <dd class="mb-0 ml-4 markdownify"></dd>
+</dl>
+
+<dl>
+  <dt class="mb-0">
+    Podcast Editor
+  </dt>
+  <dd class="mb-0 ml-3">
+    <span class="markdownify">2020 - <em>Present</em></span>
+    &middot;
+    
+    ISSIA
+    
+  </dd>
+  <dd class="mb-0 ml-4 markdownify"></dd>
+</dl>
+
+
+    </div>
+    
+    <h2 class="accordion ">
+      
+      <span onclick="expandAccordion(this)" style="cursor: pointer;">
+        <i class="fas fa-graduation-cap"></i>
+        Education</span>
+    </h2>
+    <div
+      class="panel overflow-hidden"
+      
+    >
+      
+<dl>
+  <dt>Visual Arts</dt>
+  <dd class="mb-0 ml-3">2018 - 2020 &middot; IBDP Programme</dd>
+  
+</dl>
+
+<dl>
+  <dt>Creative Multi-media Illustration program</dt>
+  <dd class="mb-0 ml-3">2016 - 2017 &middot; HKDI</dd>
+  
+</dl>
+
+<dl>
+  <dt>Code Apps with C&#43;&#43;</dt>
+  <dd class="mb-0 ml-3">July 2017 &middot; iD Tech Summer Program</dd>
+  
+</dl>
+
+<dl>
+  <dt>Web Development</dt>
+  <dd class="mb-0 ml-3">2017 - 2019 &middot; First Code Academy</dd>
+  
+</dl>
+
+<dl>
+  <dt>University Mathematics I</dt>
+  <dd class="mb-0 ml-3">July 2019 &middot; HKU Summer Institute</dd>
+  
+</dl>
+
+
+    </div>
+    
+    <h2 class="accordion ">
+      
+      <span onclick="expandAccordion(this)" style="cursor: pointer;">
+        <i class="fas fa-project-diagram"></i>
+        Projects</span>
+    </h2>
+    <div
+      class="panel overflow-hidden"
+      
+    >
+      <dl>
+  
+  <dt>
+    <a href="#" style="font-variant: small-caps; ">2018「Movie Character Created By Me」- Video Competition</a>
+  </dt>
+  <dd class="mb-0 ml-3 markdownify">Semi-Finalist (out of 1500 videos) hosted by the Hong Kong Playground Association</dd>
+  
+  <dt>
+    <a href="#" style="font-variant: small-caps; ">2019 &#39;Supporting Mothers’ Breastfeeding Journey&#39; Secondary School Short Video Competition</a>
+  </dt>
+  <dd class="mb-0 ml-3 markdownify">Merit award and certificate</dd>
+  
+  <dt>
+    <a href="#" style="font-variant: small-caps; ">Digital Chess</a>
+  </dt>
+  <dd class="mb-0 ml-3 markdownify">Created Digital Chess by scratch to showcase knowledge in jQuery</dd>
+  
+  <dt>
+    <a href="#" style="font-variant: small-caps; ">HK Flower Show Drawing Competition</a>
+  </dt>
+  <dd class="mb-0 ml-3 markdownify">Participated in the 2019 HK Flower Show Jockey Club Student Drawing Competition</dd>
+  
+</dl>
+
+    </div>
+    
+    <h2 class="accordion ">
+      
+      <span onclick="expandAccordion(this)" style="cursor: pointer;">
+        <i class="fas fa-cogs"></i>
+        Skills</span>
+    </h2>
+    <div
+      class="panel overflow-hidden"
+      
+    >
+      <ul class="pl-0">
+  
+  <li class="list-unstyled mb-2">Self-Taught Digital Art since 2010</li>
+  
+  <li class="list-unstyled mb-2">Self-Taught Adobe After Effects since 2016</li>
+  
+  <li class="list-unstyled mb-2">Trained in Web Development Languages (HTML, CSS, JavaScript, JQuery, JSON, HTML5)</li>
+  
+  <li class="list-unstyled mb-2">Self-Taught Adobe Audition since 2020</li>
+  
+  <li class="list-unstyled mb-2">Knowledge on Python, C# and C&#43;&#43;</li>
+  
+</ul>
+
+    </div>
+    
+    <script src="/js/accordion.js"></script>
+  </div>
+</div>
+
+    </main>
+    
+  </body>
+</html>
