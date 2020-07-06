@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on </title>
+    <link>https://raphaeleguillemot.github.io/categories/programming/</link>
+    <description>Recent content in Programming on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raphaeleguillemot.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slaughterhouse-5 inspired prototype</title>
+      <link>https://raphaeleguillemot.github.io/program/slaughterhouse5/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/program/slaughterhouse5/</guid>
+      <description>https://drive.google.com/file/d/1UdOpDqwspZ90ABIK6HQ4zjnAXfo3afTO/view https://github.com/crushedsummers/Weary I was inspired by a character from Slaughterhouse-5 to create a first person perspective shooter game,</description>
+    </item>
+    
+    <item>
+      <title>Chrome Extension</title>
+      <link>https://raphaeleguillemot.github.io/program/chrome-extension/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/program/chrome-extension/</guid>
+      <description>https://github.com/crushedsummers/AC303/tree/master/project4 https://github.com/crushedsummers/AC303/tree/master/project4.1 I created some chrome extensions as I felt that chrome&amp;rsquo;s bookmark features were lacking.</description>
+    </item>
+    
+    <item>
+      <title>Pong</title>
+      <link>https://raphaeleguillemot.github.io/program/pong/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/program/pong/</guid>
+      <description>https://crushedsummers.github.io/AC303/project3/ I replicated Pong and made it challenging, the highest score is 18</description>
+    </item>
+    
+    <item>
+      <title>Phaser experiment</title>
+      <link>https://raphaeleguillemot.github.io/program/phaser-experiment/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/program/phaser-experiment/</guid>
+      <description>https://crushedsummers.github.io/AC302/lesson9/ I experimented with Phaser, which is a software that easily make games using HTML Canvas.</description>
+    </item>
+    
+    <item>
+      <title>PACMAN prototype</title>
+      <link>https://raphaeleguillemot.github.io/program/pacman-prototype/</link>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/program/pacman-prototype/</guid>
+      <description>https://crushedsummers.github.io/AC302/lesson6/ I experimented by making a pacmac prototype with HTML Canvases</description>
+    </item>
+    
+    <item>
+      <title>Chess</title>
+      <link>https://raphaeleguillemot.github.io/program/-chess/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/program/-chess/</guid>
+      <description>https://crushedsummers.github.io/IChess/ I created (an incomplete) Chess through JQuery and presented it to a group of parents and students.</description>
+    </item>
+    
+    <item>
+      <title>Text Adventure Games</title>
+      <link>https://raphaeleguillemot.github.io/program/text-adventure-game/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/program/text-adventure-game/</guid>
+      <description>https://codepen.io/Qu4rtz/full/KQYmVm I was always inspired to make my own games. With my limited programming knowledge, I decided to start with text adventure games.</description>
+    </item>
+    
+    <item>
+      <title>First Website</title>
+      <link>https://raphaeleguillemot.github.io/program/first-website/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/program/first-website/</guid>
+      <description>https://codepen.io/Qu4rtz/full/goapzK I wanted to showcase my progress and projects I created.</description>
+    </item>
+    
+    <item>
+      <title>The Origins of WWII</title>
+      <link>https://raphaeleguillemot.github.io/program/the-origins-of-wwii/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/program/the-origins-of-wwii/</guid>
+      <description>https://drive.google.com/drive/folders/1_ykn3iHat7GVBQ_83l3FjffRboOewGPl?usp=sharing I decided to use Ren.py python to create a visual novel game.</description>
+    </item>
+    
+  </channel>
+</rss>

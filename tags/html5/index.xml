@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML5 on </title>
+    <link>https://raphaeleguillemot.github.io/tags/html5/</link>
+    <description>Recent content in HTML5 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raphaeleguillemot.github.io/tags/html5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phaser experiment</title>
+      <link>https://raphaeleguillemot.github.io/program/phaser-experiment/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/program/phaser-experiment/</guid>
+      <description>https://crushedsummers.github.io/AC302/lesson9/ I experimented with Phaser, which is a software that easily make games using HTML Canvas.</description>
+    </item>
+    
+    <item>
+      <title>PACMAN prototype</title>
+      <link>https://raphaeleguillemot.github.io/program/pacman-prototype/</link>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/program/pacman-prototype/</guid>
+      <description>https://crushedsummers.github.io/AC302/lesson6/ I experimented by making a pacmac prototype with HTML Canvases</description>
+    </item>
+    
+  </channel>
+</rss>

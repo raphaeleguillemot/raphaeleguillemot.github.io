@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advertisement on </title>
+    <link>https://raphaeleguillemot.github.io/tags/advertisement/</link>
+    <description>Recent content in Advertisement on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raphaeleguillemot.github.io/tags/advertisement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcast Cover</title>
+      <link>https://raphaeleguillemot.github.io/gallery/podcast-cover/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/gallery/podcast-cover/</guid>
+      <description>This artwork is the Official ISSIA Podcast Cover. It depicts two people debating through the speech bubbles in the background.</description>
+    </item>
+    
+    <item>
+      <title>Donate to Extend A Life Poster</title>
+      <link>https://raphaeleguillemot.github.io/gallery/donate2extendalife-poster/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/gallery/donate2extendalife-poster/</guid>
+      <description>This is one of the two advertisement posters I created to promote the 2019 Blood Donation school event.</description>
+    </item>
+    
+    <item>
+      <title>Iron Month Poster</title>
+      <link>https://raphaeleguillemot.github.io/gallery/iron-month-poster/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/gallery/iron-month-poster/</guid>
+      <description>This is one of the two advertisement posters I created to promote the 2019 Blood Donation school event.</description>
+    </item>
+    
+  </channel>
+</rss>

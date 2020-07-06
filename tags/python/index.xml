@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on </title>
+    <link>https://raphaeleguillemot.github.io/tags/python/</link>
+    <description>Recent content in Python on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raphaeleguillemot.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Origins of WWII</title>
+      <link>https://raphaeleguillemot.github.io/program/the-origins-of-wwii/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaeleguillemot.github.io/program/the-origins-of-wwii/</guid>
+      <description>https://drive.google.com/drive/folders/1_ykn3iHat7GVBQ_83l3FjffRboOewGPl?usp=sharing I decided to use Ren.py python to create a visual novel game.</description>
+    </item>
+    
+  </channel>
+</rss>
