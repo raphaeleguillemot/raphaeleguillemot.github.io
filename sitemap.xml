@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://raphaeleguillemot.github.io/categories/art/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://raphaeleguillemot.github.io/categories/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
@@ -39,6 +34,11 @@
   
   <url>
     <loc>https://raphaeleguillemot.github.io/tags/digital-art/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raphaeleguillemot.github.io/categories/gallery/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,7 +178,7 @@
   </url>
   
   <url>
-    <loc>https://raphaeleguillemot.github.io/categories/programming/</loc>
+    <loc>https://raphaeleguillemot.github.io/categories/programs/</loc>
     <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -198,12 +198,17 @@
   </url>
   
   <url>
+    <loc>https://raphaeleguillemot.github.io/categories/digital-productions/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://raphaeleguillemot.github.io/production/breastfeeding-stigma/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://raphaeleguillemot.github.io/categories/video-edits/</loc>
+    <loc>https://raphaeleguillemot.github.io/tags/video-edits/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
