@@ -23,22 +23,12 @@
   </url>
   
   <url>
-    <loc>https://raphaeleguillemot.github.io/categories/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://raphaeleguillemot.github.io/gallery/covid/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://raphaeleguillemot.github.io/tags/digital-art/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://raphaeleguillemot.github.io/categories/gallery/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,11 +168,6 @@
   </url>
   
   <url>
-    <loc>https://raphaeleguillemot.github.io/categories/programs/</loc>
-    <lastmod>2019-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://raphaeleguillemot.github.io/program/slaughterhouse5/</loc>
     <lastmod>2019-10-11T00:00:00+00:00</lastmod>
   </url>
@@ -194,11 +179,6 @@
   
   <url>
     <loc>https://raphaeleguillemot.github.io/tags/campus-tv/</loc>
-    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://raphaeleguillemot.github.io/categories/digital-productions/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -335,6 +315,10 @@
   <url>
     <loc>https://raphaeleguillemot.github.io/program/the-origins-of-wwii/</loc>
     <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raphaeleguillemot.github.io/categories/</loc>
   </url>
   
 </urlset>
