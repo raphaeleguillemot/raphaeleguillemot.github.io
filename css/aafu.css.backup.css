@@ -46,18 +46,23 @@ a:hover,
 .fa-toggle-off {
   color: var(--primaryLinks);
 }
-
+.skillbar {
+  background-color: var(--primaryBg);
+  border: solid 1px var(--primaryText);
+}
+#skill-percent {
+  background-color: var(--primaryLinks);
+}
 .profile-area {
   background-color: var(--secondaryBg);
   color: var(--secondaryText);
 }
 .shadow {
-  box-shadow: -4px -4px 0px 2px var(--shadow) !important;
+  box-shadow: -4px -4px 5px 2px var(--shadow) !important;
 }
 .top-h1 {
   font-size: 2.5em;
 }
-
 .zoomlink {
   font-size: 2em;
 }
@@ -69,10 +74,16 @@ a:hover,
   max-height: 0;
   transition: 0.3s ease-out;
 }
-
+.skillbar {
+  border-radius: 3px;
+}
+#skill-percent {
+  height: 15px;
+  transition: all 0.7s;
+}
 .pagination * {
-  background-color: var(--secondaryBg) !important;
-  color: var(--primaryText) !important;
+  background-color: var(--primaryBg) !important;
+  color: var(--primaryLinks) !important;
 }
 .page-item {
   border: solid 1px var(--primaryLinks) !important;
