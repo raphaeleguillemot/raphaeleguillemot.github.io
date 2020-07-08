@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C&#43;&#43; on </title>
-    <link>https://raphaeleguillemot.github.io/tags/c&#43;&#43;/</link>
+    <link>https://raphg.me/tags/c&#43;&#43;/</link>
     <description>Recent content in C&#43;&#43; on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://raphaeleguillemot.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raphg.me/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Text Adventure Games</title>
-      <link>https://raphaeleguillemot.github.io/program/text-adventure-game/</link>
+      <link>https://raphg.me/program/text-adventure-game/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://raphaeleguillemot.github.io/program/text-adventure-game/</guid>
+      <guid>https://raphg.me/program/text-adventure-game/</guid>
       <description>https://codepen.io/Qu4rtz/full/KQYmVm I was always inspired to make my own games. With my limited programming knowledge, I decided to start with text adventure games.</description>
     </item>
     
