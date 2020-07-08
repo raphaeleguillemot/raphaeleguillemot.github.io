@@ -32,19 +32,14 @@ h4 {
   font-family: "Didact Gothic", sans-serif;
 }
 
-a,
-a:hover{
+h3 a {
   color: var(--primaryText);
 }
 
-.pl-1 {
-  color: var(--primaryLinks);
-};
-
-span {
-  color: var(--primaryLinks);
-}
-
+a,
+a:hover,
+span,
+.pl-1
 .accordion,
 .accordion:hover {
   color: var(--primaryLinks);
