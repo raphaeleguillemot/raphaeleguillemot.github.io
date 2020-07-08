@@ -31,16 +31,29 @@ h3,
 h4 {
   font-family: "Didact Gothic", sans-serif;
 }
+
 a,
-a:hover,
+a:hover{
+  color: var(--primaryText);
+}
+
+.pl-1 {
+  color: var(--primaryLinks);
+};
+
+span {
+  color: var(--primaryLinks);
+}
+
 .accordion,
 .accordion:hover {
   color: var(--primaryLinks);
 }
+
 .profile-area a,
 .profile-area .accordion:hover,
 .social-icons * {
-  color: var(--secondaryLinks);
+  color: var(--primaryLinks);
 }
 .fa-toggle-on,
 .fa-toggle-off {
@@ -85,5 +98,5 @@ a:hover,
   background-color: var(--secondaryBg) !important;
 }
 .aafu-border {
-  border-color: var(--primaryLinks) !important;
+  border-color: var(--primaryBg) !important;
 }
