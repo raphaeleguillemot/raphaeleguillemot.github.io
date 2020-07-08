@@ -32,17 +32,18 @@ h4 {
   font-family: "Didact Gothic", sans-serif;
 }
 
-h3 a {
-  color: var(--primaryText);
-}
-
 a,
 a:hover,
+em,
 span,
 .pl-1
 .accordion,
 .accordion:hover {
   color: var(--primaryLinks);
+}
+
+h3 a {
+  color: var(--primaryText);
 }
 
 .profile-area a,
@@ -55,7 +56,8 @@ span,
   color: var(--primaryLinks);
 }
 
-.profile-area {
+.profile-area,
+.index-box {
   background-color: var(--secondaryBg);
   color: var(--secondaryText);
 }
