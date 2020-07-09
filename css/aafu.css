@@ -46,6 +46,10 @@ h3 a {
   color: var(--primaryText);
 }
 
+#simpleAnalyticsBadge {
+  float: right;
+}
+
 .profile-area a,
 .profile-area .accordion:hover,
 .social-icons * {
