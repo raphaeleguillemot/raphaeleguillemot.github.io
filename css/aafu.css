@@ -48,6 +48,8 @@ h3 a {
 
 #simpleAnalyticsBadge {
   float: right;
+  text-align: right;
+  vertical-align: right;
 }
 
 .profile-area a,
