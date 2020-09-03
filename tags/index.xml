@@ -6,10 +6,46 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://raphg.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://raphg.me/tags/hugo/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphg.me/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://raphg.me/tags/website/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphg.me/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commissions</title>
+      <link>https://raphg.me/tags/commissions/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphg.me/tags/commissions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Art</title>
+      <link>https://raphg.me/tags/digital-art/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphg.me/tags/digital-art/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Creative</title>
@@ -17,15 +53,6 @@
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://raphg.me/tags/creative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Digital Art</title>
-      <link>https://raphg.me/tags/digital-art/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://raphg.me/tags/digital-art/</guid>
       <description></description>
     </item>
     
@@ -53,15 +80,6 @@
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://raphg.me/tags/advertisement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Commissions</title>
-      <link>https://raphg.me/tags/commissions/</link>
-      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://raphg.me/tags/commissions/</guid>
       <description></description>
     </item>
     
@@ -188,15 +206,6 @@
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://raphg.me/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Website</title>
-      <link>https://raphg.me/tags/website/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://raphg.me/tags/website/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in Programs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://raphg.me/program/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dim Sum Cultural Platform Website Commission</title>
+      <link>https://raphg.me/program/dscp/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphg.me/program/dscp/</guid>
+      <description>https://dimsumculture.company I was commissioned to create a chinese culture business website for my client.</description>
+    </item>
     
     <item>
       <title>Slaughterhouse-5 inspired prototype</title>
